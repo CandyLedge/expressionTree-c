@@ -1,0 +1,3 @@
+/home/sa/project/c/ExpreesionTree/cmake-build-debug/CMakeFiles/ExpreesionTree.dir
+/home/sa/project/c/ExpreesionTree/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sa/project/c/ExpreesionTree/cmake-build-debug/CMakeFiles/rebuild_cache.dir

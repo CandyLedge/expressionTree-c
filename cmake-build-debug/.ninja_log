@@ -1,0 +1,9 @@
+# ninja log v6
+0	42	1735032545390769648	CMakeFiles/ExpreesionTree.dir/main.c.o	c8dc5d4767f04af
+42	67	1735032545432768762	ExpreesionTree	9fa7fdbf39c73b7f
+0	193	1735046930843190555	CMakeFiles/ExpreesionTree.dir/main.c.o	c8dc5d4767f04af
+193	218	1735046931035187244	ExpreesionTree	9fa7fdbf39c73b7f
+1	259	1735047672023680545	CMakeFiles/ExpreesionTree.dir/main.c.o	c8dc5d4767f04af
+259	276	1735047672281682977	ExpreesionTree	9fa7fdbf39c73b7f
+1	32	1735047745808303677	CMakeFiles/ExpreesionTree.dir/main.c.o	c8dc5d4767f04af
+32	51	1735047745839303910	ExpreesionTree	9fa7fdbf39c73b7f
