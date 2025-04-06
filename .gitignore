@@ -1,0 +1,24 @@
+# 构建目录
+build/
+cmake-build-debug/
+
+# CMake生成的文件
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# 临时文件
+*.o
+*.a
+*.so
+*.dll
+*.exe
+
+# IDE特定文件
+.vscode/
+.idea/
+
+# 其他生成文件
+*.log
+*.tlog
